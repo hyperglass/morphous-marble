@@ -20,7 +20,6 @@ const marbleLinks = [
     ]
   },
   {
-    text: 'You need to Know',
     items: [
       { text: 'Prerequisites for Commands', link: '/custom-rom-guide/common/prerequisites-for-commands' },
       { text: 'Boot into Fastboot Mode', link: '/custom-rom-guide/common/boot-into-fastboot-mode' },
@@ -75,15 +74,15 @@ export default defineConfig({
     ],
 
     editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+      pattern: 'https://github.com/hyperglass/morphous/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
     lastUpdated: {
       text: 'Updated at',
       formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
+        dateStyle: 'short',
+        timeStyle: 'short'
       }
     },
 
