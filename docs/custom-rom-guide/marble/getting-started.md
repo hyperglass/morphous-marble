@@ -1,5 +1,5 @@
 # Getting Started
-> Windows PC is Required in this guide even if alternative methods may be possible
+> Windows PC is Required in this guide even if alternative methods may be possible.
 
 :::danger VERY IMPORTANT
  it's strongly recommended to create a complete backup of your device's data before making any changes. This backup can be used to restore your device to its previous functionality if necessary.\
@@ -47,7 +47,7 @@ You can also check for ROMs on your device's Telegram group.
 ::: info How to check on Telegram App
 1. Search for your device's official Telegram group
    - A web search like **'poco f5 telegram'** should get you there.
-   - Or you can install Telegram Desktop and type that in the search box.\
+   - Or you can install Telegram Desktop and type that in the search box.
    > You should see an '**Updates**' channel/group.
 2. Read posts' contents: 
    - A bunch of posts will appear on your screen. These are the Custom ROMs, Custom Recoveries, Kernels, etc.. Examine the features, installation instructions and other additional information. 
