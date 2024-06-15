@@ -66,7 +66,7 @@ export default defineConfig({
     },
 
     siteTitle: 'Morphous',
-
+    description: 'A Practical Approach for Modding Android',
     sidebar: marbleLinks,
 
     socialLinks: [
