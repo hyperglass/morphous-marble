@@ -7,7 +7,7 @@ aside: false
 
 > [!IMPORTANT] GETTING TERMINAL READY FOR COMMANDS
 > We need to Setup `Platform Tools` folder for Fastboot commands to work.\
-Please see [how to use Fastboot/ADB Commands in Platform Tools Directory](/custom-rom-guide/common/preerquisites-for-commands) for instructions.
+Please see [how to use Fastboot/ADB Commands in Platform Tools Directory](/custom-rom-guide/common/prerequisites-for-commands) for instructions.
 
 :::tip IMPORTANT
 Installing a Custom Recovery or ROM requires booting into Fastboot Mode first.\
