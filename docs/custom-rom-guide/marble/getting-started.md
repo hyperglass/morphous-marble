@@ -6,7 +6,7 @@
  **Do not skip this crucial step, particularly if your device holds any critical data.**
 :::
 
-::: warning BEFORE WE GET STARTED...
+:::warning BEFORE WE GET STARTED...
 The links or instructions are specifically for POCO F5. The files and instructions required might be different for other devices.
 Using files or instructions designed for a different device poses a significant risk and can lead to malfunctions. Please ensure you have the correct files before proceeding.
 :::
@@ -44,7 +44,7 @@ We can't easily install a ROM on a device if it's not readily available for our 
 :::
 
 You can also check for ROMs on your device's Telegram group. 
-::: info How to check on Telegram App
+:::info How to check on Telegram App
 1. Search for your device's official Telegram group
    - A web search like **'poco f5 telegram'** should get you there.
    - Or you can install Telegram Desktop and type that in the search box.
