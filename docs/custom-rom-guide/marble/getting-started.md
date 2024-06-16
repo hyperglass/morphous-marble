@@ -16,7 +16,7 @@ Using files or instructions designed for a different device poses a significant 
 > It's really important to know the codename of your device as it ensures compatibility and helps in finding the right software for it. Search for your device's codename on the web.\
 A simple "what is __poco f5__ codename" web search will do the work.
 
-**Poco F5 (also known as Redmi Note 12 Turbo) is Codenamed `Marble`**
+**Poco F5 or Redmi Note 12 Turbo is Codenamed `Marble`**
 
 ## Availability
 We can't easily install a ROM on a device if it's not readily available for our device. To check for its availability, we look on XDA.
