@@ -14,7 +14,7 @@ Using files or instructions designed for a different device poses a significant 
 ## Codename 
 
 > It's really important to know the codename of your device as it ensures compatibility and helps in finding the right software for it. Search for your device's codename on the web.\
-A simple "what is __poco f5__ codename" web search will do the work.
+A simple "what is __poco f5__ codename" or "what is __redmi note 12 turbo__ codename" web search will do the work.
 
 **Poco F5 or Redmi Note 12 Turbo is Codenamed `Marble`**
 
